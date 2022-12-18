@@ -17,8 +17,8 @@
 ### Sumário
 
 - Planejamento da pesquisa
-  - [Projeto de pesquisa completo](ppgfau-projeto.md)
-  - [Plano de trabalho 2018–2023](ppgfau-plano.md)
+  - [Projeto de pesquisa completo](https://github.com/classico-trad-ecletico/classico-trad-ecletico.github.io/ppgfau-projeto.md)
+  - [Plano de trabalho 2018–2023](https://github.com/classico-trad-ecletico/classico-trad-ecletico.github.io/ppgfau-plano.md)
   - [Iniciação científica 2020–2021](https://dmcpatrimonio.github.io/classico-trad-ecletico-pibic21)
 - Temas e produção
   - [Arquitetura tradicional na contemporaneidade](https://dmcpatrimonio.github.io/6enanparq)
